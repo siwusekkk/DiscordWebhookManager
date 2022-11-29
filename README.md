@@ -1,4 +1,6 @@
-# 🌐 Discord Webhook Manager
+<h1 align="center"> 🌐 Discord Webhook Manager
+<a href="https://github.com/siwusekkk/Discord-Webhook-Manager-2.0">No longer supported *click here* for supported version with ui</a>
+</h1>
 <h2>⭐ Features & screenshots:</h2>
 <h3>• Send Webhook</h3>
 
